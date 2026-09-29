@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hola, soy Fernando 👋
 
-<!--
-**fernandoEchegaray/fernandoEchegaray** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Desarrollador Front-End
 
-Here are some ideas to get you started:
+Egresé como Programador en Diseño Web en 2024. Construyo sitios web responsivos con HTML, CSS, JavaScript y Bootstrap. Antes de programar trabajé en minería, construcción y coctelería, y de ahí traigo hábitos que uso al desarrollar: seguir procedimientos, cumplir plazos y mantener la calma bajo presión.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tecnologías
+
+HTML5 · CSS3 · JavaScript · jQuery · Bootstrap · Git y GitHub
+
+## Proyectos destacados
+
+- **[Portafolio personal](https://fernandoechegaray.github.io/Portafolio/)**: mi sitio web como desarrollador. HTML, CSS y JavaScript. [Ver código](https://github.com/fernandoEchegaray/Portafolio)
+- **[Coke-website-example](https://github.com/fernandoEchegaray/Coke-website-example)**: [describe en una línea qué muestra este proyecto y qué tecnologías usaste].
+
+## Formación
+
+- Bootcamp Coding Dojo LATAM, 2024
+- Bootcamp Desafío LATAM, 2024
+
+## Contacto
+
+- [Portafolio](https://fernandoechegaray.github.io/Portafolio/)
+- [LinkedIn](https://www.linkedin.com/in/fernando-echegaray/)
+- Correo: tfmyaw@gmail.com
