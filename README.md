@@ -11,7 +11,7 @@ HTML5 · CSS3 · JavaScript · jQuery · Bootstrap · Git y GitHub
 ## Proyectos destacados
 
 - **[Portafolio personal](https://fernandoechegaray.github.io/Portafolio/)**: mi sitio web como desarrollador. HTML, CSS y JavaScript. [Ver código](https://github.com/fernandoEchegaray/Portafolio)
-- **[Coke-website-example](https://github.com/fernandoEchegaray/Coke-website-example)**: [describe en una línea qué muestra este proyecto y qué tecnologías usaste].
+- **[Coke-website-example](https://github.com/fernandoEchegaray/Coke-website-example)**:Proyecto Sitio web de Coca-cola . [Ver código](https://github.com/fernandoEchegaray/Coke-website-example).
 
 ## Formación
 
